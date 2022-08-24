@@ -1,5 +1,6 @@
 # card-quest
 
+Demo project for the article about react-native-web: https://eralp.dev/react-native-mobile-and-web-code-sharing
 Play it at https://card-quest.netlify.app !
 
 react-native & react-native-web code sharing demo app
